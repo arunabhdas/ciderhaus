@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.ciderhaus.ciderhaus",
+      "nativeLanguage": "es"
+    },
+    "jhipsterVersion": "5.5.0",
+    "applicationType": "monolith",
+    "baseName": "ciderhaus",
+    "packageName": "com.ciderhaus.ciderhaus",
+    "packageFolder": "com/ciderhaus/ciderhaus",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "MDAwMjQ3MTA3NmY3NWUwZDRiMzJlNjA1Y2NmZDBlMWUyNDc5NmRjMzg1NjExYzgwNDlkZDFhNDQwNzllMTIwZGZmYTMwNWM4NmQ3YzJkZmYzMWUxODJkMmUyYjAzMDBmMTJkMWFjODIyMDY5NWUzNzBlZjFjMDRmNTMxZDVkYjE=",
+    "clientFramework": "angularX",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "es",
+    "languages": [
+      "es",
+      "en"
+    ]
+  }
+}
